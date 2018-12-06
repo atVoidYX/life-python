@@ -1,0 +1,2 @@
+# lifepython
+script for world
